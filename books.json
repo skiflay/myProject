@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d202c"
+  },
+  "ISBN": "213124423535",
+  "bookTitle": "Introduction to Algorithm and Data-Structure",
+  "Publisher": "ARA",
+  "datePublished": "1870-06-13",
+  "Page": 200,
+  "overdueFee": 4
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d202d"
+  },
+  "ISBN": "1111-000-234",
+  "bookTitle": "C# Foundation",
+  "Publisher": "McGraw-Hill",
+  "datePublished": "2020-05-05",
+  "Page": 200,
+  "overdueFee": 2.9
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d202e"
+  },
+  "ISBN": "123-45677891",
+  "bookTitle": "Getch Book edited",
+  "Publisher": "Longman",
+  "datePublished": "2020-05-06",
+  "Page": 200,
+  "overdueFee": 3
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d202f"
+  },
+  "ISBN": "1234534",
+  "Publisher": "McGraw-Hill",
+  "datePublished": "1999-02-04",
+  "Page": 200,
+  "bookTitle": "McGraw-Hill",
+  "overdueFee": 50
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d2030"
+  },
+  "ISBN": "978-0135166307",
+  "Publisher": "Pearson",
+  "datePublished": "2018-08-27",
+  "Page": 200,
+  "bookTitle": "Core Java - Fundamentals",
+  "overdueFee": 1.75
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d2031"
+  },
+  "ISBN": "012345",
+  "Publisher": "Pearson",
+  "datePublished": "2020-05-08",
+  "Page": 200,
+  "bookTitle": "Design Patterns",
+  "overdueFee": 45.8
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d2032"
+  },
+  "ISBN": "978-0073523323",
+  "Publisher": "McGraw-Hill",
+  "datePublished": "2011-05-19",
+  "Page": 200,
+  "bookTitle": "Database Systems Concepts, 6th Edition",
+  "overdueFee": 1.47
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d2033"
+  },
+  "ISBN": "978-0135974488",
+  "bookTitle": "Hacker CookBook",
+  "Publisher": "Apress",
+  "datePublished": "2020-05-01",
+  "Page": 200,
+  "overdueFee": 10
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d2034"
+  },
+  "ISBN": "1234-121210",
+  "bookTitle": "Harry Potter",
+  "Overdue-Fee": 0,
+  "Publisher": "McGraw-Hill",
+  "datePublished": null,
+  "Page": 200
+},{
+  "_id": {
+    "$oid": "61148902b33ae13aef9d2035"
+  },
+  "ISBN": "978-0321714114",
+  "Publisher": "Staney B. Lippman",
+  "datePublished": "2019-08-08",
+  "Page": 200,
+  "bookTitle": "C++ Primer",
+  "overdueFee": 9.99
+},{
+  "_id": {
+    "$oid": "6114a981de56d68b73afe3cc"
+  },
+  "bookTitle": "Hope: as it happen",
+  "Publisher": "books Publishers llc",
+  "datePublished": "2021-06-15",
+  "page": 110,
+  "overdueFee": 1.75,
+  "ISBN": "122-301-1254"
+},{
+  "_id": {
+    "$oid": "6115a42b0bd0b706213db171"
+  }
+}]

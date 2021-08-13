@@ -1,0 +1,23 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "this is an online book-store web-app for the fulfillment of CS415 (Databases) course ",
+  "main": "app.js",
+  "scripts": {
+    "start": "test main.js"
+  },
+  "keywords": [
+    "book",
+    "online",
+    "web-app",
+    "store"
+  ],
+  "author": "simon kiflay",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.0",
+    "nodemon": "^2.0.12"
+  }
+}

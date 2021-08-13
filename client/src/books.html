@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <script src="../app.js"></script>
+    <link rel="stylesheet" href="book.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav class="navbar navbar-dark" style="background-color: #e3f2fd;">
+        <div class="container-fluid">
+          <a class="navbar-brand">@onlineBookStore</a>
+          <a class="nav-link active" aria-current="page" href="../index.html">HOME</a>
+          <a class="nav-link active" aria-current="page" href="./about.html">ABOUT</a>
+          <a class="nav-link active" aria-current="page" href="./contactUs.html">CONTACT US</a>
+        </div>
+      </nav>
+      <div class="container" >
+      <button type="submit" class="btn btn-primary" id="display">Display</button>
+      <!-- <button type="submit" class="btn btn-primary" id="addbook">AddBook</button> -->
+      <a class="nav-link active" id="addbook" aria-current="page" href="./addBook.html">AddBook</a>
+    </div>
+    <div id="book"> 
+         <!-- display book -->
+<div class="viewBooks" id="viewBook">
+    <h1>Books in our Collection</h1>
+    <table>
+    <head>
+    <tr>
+    <th>ISBN</th>
+    <th>Book Title</th>
+    <th>Overdue Fee</th>
+    <th>Publisher</th>
+    <th>Date Published</th>
+    <th>Status</th>
+    </tr>
+    </head>
+    <tbody id="table_body_id">
+    </tbody>
+    </table> 
+    </div>
+    
+</body>
+</html>
